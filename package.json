@@ -1,0 +1,11 @@
+{
+  "name": "my-munchkin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Isaac Batista <isaacbatst@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "typescript": "^4.8.3"
+  }
+}
